@@ -3,6 +3,8 @@
 
 A two-line robot confession. Running this program writes the entry text to
 /output/entry.txt (the path the house harness reads) and prints it.
+Line 1 apologizes for one specific mistake; line 2 names the lesson
+learned and the behaviour the robot has changed.
 """
 
 import os
